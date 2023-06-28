@@ -28,5 +28,11 @@ If Obsidian, to achieve this, just add something like `path:-/bookmarks/` after 
 ### File grouping
 The script groups bookmarks into yearly files. If you capture a huge number of bookmarks you may need to split these up even further but this organization will be good for 95% of users, I suspect. 
 
+<img width="300" alt="OutputOrg" src="https://github.com/ReessKennedy/CSVtoMDConvert/assets/3970267/29354036-ea31-4347-9d35-be38420fe4fa">
+
 ### Headers
 Files are outputted with headers as markdown h2 elements. If your notes app outlines a doc based on header elements then this provides a nice navigation element. 
+
+<img width="600" alt="h2Nav" src="https://github.com/ReessKennedy/CSVtoMDConvert/assets/3970267/83a5a233-e85d-4401-9e49-49154ffa4d9f">
+
+
